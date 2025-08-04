@@ -1,0 +1,8 @@
+# 克隆或分叉此仓库
+git clone https://github.com/yunfenglong/wan-s-blog.git
+cd wan-s-blog
+
+# 安装依赖
+npm install
+
+# 所需依赖已包含在 package.json 中
